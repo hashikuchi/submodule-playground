@@ -1,0 +1,3 @@
+[submodule "b-module"]
+	path = b-module
+	url = https://github.com/hashikuchi/submodule-b.git
